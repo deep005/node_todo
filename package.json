@@ -1,0 +1,19 @@
+{
+  "name": "todo_deep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deep005/node_todo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deep005/node_todo/issues"
+  },
+  "homepage": "https://github.com/deep005/node_todo#readme"
+}
